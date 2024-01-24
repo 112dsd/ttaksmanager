@@ -1,0 +1,10 @@
+Z:\Git\Новая папка\TaskManager3\TaskManager3\bin\x86\Release\TaskManager3.exe.config
+Z:\Git\Новая папка\TaskManager3\TaskManager3\bin\x86\Release\TaskManager3.exe
+Z:\Git\Новая папка\TaskManager3\TaskManager3\bin\x86\Release\TaskManager3.pdb
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.csproj.AssemblyReference.cache
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.Form1.resources
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.Properties.Resources.resources
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.csproj.GenerateResource.cache
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.csproj.CoreCompileInputs.cache
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.exe
+Z:\Git\Новая папка\TaskManager3\TaskManager3\obj\x86\Release\TaskManager3.pdb
